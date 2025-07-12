@@ -15,33 +15,6 @@ As a B.Tech student in Computer Science and AI at Bennett University, I'm passio
 
 ---
 
-### 📚 Certifications
-- 🎓 Python for Data Science, AI & Development – IBM (Jun 2024)  
-- 🤖 Introduction to Generative AI – Google Cloud (May 2024)  
-- 🧪 Python (Basic) – HackerRank (Aug 2024)  
-- 💼 Technology Job Simulation – Deloitte x Forage (Jun 2025)
-
----
-
-### 🚀 Projects
-- 🧠 [Alzheimer’s Disease Predictor](https://github.com/vishxl08/Alzheimer_disease_predictor_tensorflow)  
-  Used MRI data with ML algorithms to predict Alzheimer’s disease.
-
-- 💬 [Debating AI - DEBATIX](https://github.com/vishxl08/Debatrix--LLM-S-debate)  
-  Built a Generative AI-based debating system using LLMs.
-
-- ❤️ [Heart Disease Predictor](https://github.com/vishxl08/Heart_Disease_predictor)  
-  Built a classification model to detect risk of heart diseases.
-
-- 🏏 [IPL Winner Predictor](https://github.com/vishxl08/ipl-winner-predictor)  
-  Used past performance data to build an AI-based IPL outcome predictor.
-
-- 🎮 [Java 2D Game](https://github.com/vishxl08/Java-2d-game)  
-  Developed a fun 2D Java game showcasing OOP and game dev fundamentals.
-
-- 🎯 [Player Re-Identification and Tracking](https://github.com/vishxl08/Player-Re-Identification-and-Tracking)  
-  Used YOLOv5 + DeepSort to re-identify and track players from sports footage.
-
 ---
 
 ### 📈 GitHub Stats
@@ -54,8 +27,7 @@ As a B.Tech student in Computer Science and AI at Bennett University, I'm passio
 
 ### 🌐 Connect with Me
 - 📧 Email: [vishaly6215@gmail.com](mailto:vishaly6215@gmail.com)
-- 🔗 GitHub: [github.com/vishxl08](https://github.com/vishxl08)
-- 💻 LeetCode: [leetcode.com/u/6ZdU4Dr3qX](https://leetcode.com/u/6ZdU4Dr3qX)
+
 
 ---
 
